@@ -2,7 +2,7 @@
 
 This project uses data analytics techniques to visualize and analyze financial data, helping stakeholders make informed decisions and track progress towards financial goals.
 
-![Finance Dashboard]()
+![Finance Dashboard](https://github.com/HarshRaj00789/Global-Financial-KPIs-Dashboard/blob/main/resource/pic.jpg)
 
 ## Objective  
 Create a comprehensive dashboard to monitor and analyze key financial metrics, supporting effective decision-making and performance tracking.
