@@ -116,7 +116,7 @@ Includes filters, drill-downs, and tooltips for deep user interaction and multi-
 
 ## Dashboard Preview
 
-![Global Finance KPI Dashboard]()
+![Global Finance KPI Dashboard](https://github.com/HarshRaj00789/Global-Financial-KPIs-Dashboard/blob/main/resource/dashpic.png)
 
 ## Conclusion  
 This Global Finance KPI Dashboard provides actionable insights into worldwide financial performance. By monitoring key metrics through interactive visualizations, global decision-makers can improve profitability, manage expenses, optimize sales, and maintain financial health across diverse markets.
