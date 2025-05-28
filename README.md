@@ -40,7 +40,7 @@ Filters, drill-downs, and tooltips enhance user interaction and data exploration
 
 ## Dashboard Preview
 
-![Finance KPI Dashboard](https://github.com/sunil518/Finance-KPI-Dashboard/assets/127589917/f99ce482-15ed-4595-89c6-751edd54949a)
+![Finance KPI Dashboard](https://github.com/HarshRaj00789/Global-Financial-KPIs-Dashboard/blob/main/resource/dashpic.png)
 
 ## Conclusion  
 This Finance KPI Dashboard project delivers actionable insights into financial performance, enabling stakeholders to improve profitability, manage expenses, optimize sales, and maintain financial health through interactive visualizations.
@@ -78,7 +78,7 @@ Edit
 
 This project leverages data analytics techniques to visualize and analyze global financial data, empowering stakeholders to make informed decisions and track progress towards international financial goals.
 
-![Global Finance Dashboard]()
+![Global Finance Dashboard](https://github.com/HarshRaj00789/Global-Financial-KPIs-Dashboard/blob/main/resource/dashpic.png)
 
 ## Objective  
 Develop a comprehensive dashboard to monitor and analyze key financial metrics across global markets for enhanced decision-making and performance tracking.
